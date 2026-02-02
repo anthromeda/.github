@@ -1,1 +1,1 @@
-![anthromeda logo](./Anthromeda Logo.png)
+![anthromeda logo](./logo.png)
